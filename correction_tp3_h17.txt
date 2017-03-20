@@ -1,0 +1,63 @@
+﻿
+Prénom et Nom 1 : Ian-Kyle Wagner
+Prénom et nom 2 :
+Numéro de dossier 1 (NI): 111157264
+Numéro de dossier 2 (NI):
+
+Temps de réalisation 1 : 2 heures
+Temps de réalisation 2 :
+
+Selon vous, quel est le niveau de difficulté, entre 1 et 10, de ce TP (1= facile, 10= difficile):
+ 
+
+
+Fonctionnalités
+---------------
+
+/10 : Les entrées/sorties sont bien gérées et présentées (déroulement du jeu).
+     Commentaires :
+
+
+/5 : Nombre de coup maximal est bien géré (selon premier joueur).
+     Commentaires :
+
+
+/10 : Les résultats à chacune des étapes sont corrects.
+     Commentaires :
+
+
+/10 : type de la combinaison finale correct.
+     Commentaires :
+
+
+/5 : Statistiques finales.
+     Commentaires :
+
+
+
+/5 : Gagnant (ou partie nulle) bien identifié.
+     Commentaires :
+
+
+/5 : Qualité du code.
+     Commentaires :
+
+
+
+Pénalités pour non-respect des consignes et/ou de retard
+--------------------------------------------------------
+
+
+
+
+
+Autres commentaires du correcteur
+---------------------------------
+
+
+
+initiales du correcteur:
+
+
+Total: /50
+
